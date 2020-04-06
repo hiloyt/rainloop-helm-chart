@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: hardware/rainloop
+  repository: hiloyt/rainloop
   tag: latest
   pullPolicy: IfNotPresent
 
